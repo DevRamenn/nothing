@@ -1,1 +1,5 @@
-test
+{
+  "license_server": "https://licenses.farmboxpro.com",
+  "backup_server": "",
+  "updated_at": "2026-09-09 12:00:00"
+}
