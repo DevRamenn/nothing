@@ -1,4 +1,20 @@
 {
-  "license_server": "https://licenses.devramen.in",
-  "updated_at": "2026-09-09 12:00:00"
+  "version": 1,
+  "updated": "2026-10-03T12:00:00Z",
+  "api_base": "https://licenses.devramen.in",
+  "apps": {
+    "apollo-scraper": {
+      "app_id": "3576eeabf663ecabf1e2b423ba0287f8",
+      "api_key": "446acc7c38c1d9a2212823ec863e23c56f7f354a50ab88d5e257504469fd243f"
+    },
+    "your-other-app": {
+      "app_id": "aaaa...",
+      "api_key": "bbbb..."
+    },
+    "third-app": {
+      "app_id": "cccc...",
+      "api_key": "dddd...",
+      "api_base": "https://optional-per-app-override.com"
+    }
+  }
 }
