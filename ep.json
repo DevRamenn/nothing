@@ -11,9 +11,9 @@
       "app_id": "fc540523f746188c297a723480f0f73c",
       "api_key": "27e528e4a8e4c2d2ad7ad3eaf00997a6c66505ed7e758cc522af2f710a62cd57"
     },
-    "third-app": {
-      "app_id": "cccc...",
-      "api_key": "dddd...",
+    "bulletfarm-fb-creator-emulator": {
+      "app_id": "22b930c7e1304495f1c27740394584a0",
+      "api_key": "2dc652c349091fb38c34d0c9f0463c962a799c32373aec3fb6b7bff4daef87e7",
       "api_base": "https://optional-per-app-override.com"
     }
   }
