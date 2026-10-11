@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-10T12:00:00Z",
+  "updated": "2026-10-11T12:00:00Z",
   "api_base": "https://licenses.devramen.in",
   "apps": {
     "apollo-scraper": {
@@ -11,7 +11,7 @@
       "app_id": "90bd14bfc3b91c2b43cbc7da91424280",
       "api_key": "8fc23181814a0805f92f05263e1f5a4158cc8b19656674d12dec446535d39004"
     },
-    "outlook-creator-emulator-app": {
+    "outlook-creator-emulator-edition": {
       "app_id": "fc540523f746188c297a723480f0f73c",
       "api_key": "27e528e4a8e4c2d2ad7ad3eaf00997a6c66505ed7e758cc522af2f710a62cd57"
     },
