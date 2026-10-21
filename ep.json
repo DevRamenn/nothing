@@ -18,6 +18,10 @@
     "fb-creator-emulator-edition-bulletfarm": {
       "app_id": "22b930c7e1304495f1c27740394584a0",
       "api_key": "2dc652c349091fb38c34d0c9f0463c962a799c32373aec3fb6b7bff4daef87e7"
+    },
+    "social-media-account-manager-and-automation": {
+      "app_id": "dbb0c9fdf1dc227c66b736bcbd99d1d5",
+      "api_key": "5e60753f68350f17f86cba21cfd581a8dae805b7dd110485c4f40617fae1ac3a"
     }
   }
 }
