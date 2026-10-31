@@ -22,6 +22,10 @@
     "social-media-account-manager-and-automation": {
       "app_id": "dbb0c9fdf1dc227c66b736bcbd99d1d5",
       "api_key": "5e60753f68350f17f86cba21cfd581a8dae805b7dd110485c4f40617fae1ac3a"
+    },
+    "video-explainer-automation": {
+      "app_id": "3c2dd91e9dfd8b6f3981ef8249179558",
+      "api_key": "b5345901f1358f791ee80ce5f26b33db33092db3cc8f92a50f61020c9ad2fa34"
     }
   }
 }
